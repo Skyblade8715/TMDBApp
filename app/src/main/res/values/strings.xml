@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TMDB App</string>
+    <string name="search_movies">Search movies…</string>
+    <string name="clear_search">Clear search</string>
+    <string name="toggle_like">Toggle Like</string>
+    <string name="poster">%1$s poster</string>
+    <string name="audience_score">Audience Score: %1$s</string>
+    <string name="backdrop">%1$s backdrop</string>
+    <string name="back">Back</string>
+    <string name="an_error_occurred">An error occurred</string>
+</resources>
