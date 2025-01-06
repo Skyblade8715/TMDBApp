@@ -92,6 +92,7 @@ fun Poster(
                 textAlign = TextAlign.Center,
                 text = movie.audienceScore,
                 style = MaterialTheme.typography.titleLarge.copy(fontWeight = FontWeight.Bold),
+                color = MaterialTheme.colorScheme.onBackground,
                 fontWeight = FontWeight.Bold,
             )
         }
